@@ -8,3 +8,6 @@ Raspberry Pi controls super sonic distance measure sensor
 
 HC-SR04 Ultrasonic Range Sensor on the Raspberry Pi | The Pi Hut
  https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
+
+Simple Guide to the Raspberry Pi GPIO Header - Raspberry Pi Spy
+ https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/
